@@ -1,0 +1,17 @@
+{
+  "name": "toothteacher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "toothteacher.js",
+  "scripts": {
+    "start": "nodemon toothteacher.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "nodemon": "^2.0.2"
+  }
+}
